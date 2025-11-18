@@ -1,0 +1,30 @@
+ÍNDICE DE MATERIAL - Semana_28_(08-12_Jun_2026)
+============================================================
+
+📅 Material organizado por día:
+
+
+📁 Lunes_8_Jun/
+   - Seccion_09_pag_241-270.pdf
+
+📁 Martes_9_Jun/
+   - Seccion_09_pag_241-270.pdf
+
+📁 Miercoles_10_Jun/
+   - Seccion_10_pag_271-300.pdf
+
+📁 Jueves_11_Jun/
+   - Seccion_10_pag_271-300.pdf
+
+📁 Viernes_12_Jun/
+   - Seccion_09_pag_241-270.pdf
+   - Seccion_10_pag_271-300.pdf
+
+============================================================
+
+💡 CÓMO USAR:
+1. Cada día, abre la carpeta correspondiente
+2. Lee el README.txt para ver qué PDFs estudiar
+3. Abre los PDFs directamente desde esa carpeta
+4. Guarda tus notas en ../Mis_Notas/
+5. Marca como completado en ../README.md

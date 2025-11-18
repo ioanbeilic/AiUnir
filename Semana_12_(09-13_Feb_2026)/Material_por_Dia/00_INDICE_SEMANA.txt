@@ -1,0 +1,29 @@
+ÍNDICE DE MATERIAL - Semana_12_(09-13_Feb_2026)
+============================================================
+
+📅 Material organizado por día:
+
+
+📁 Lunes_9_Feb/
+   - Sin PDFs (trabajo práctico/proyecto)
+
+📁 Martes_10_Feb/
+   - Sin PDFs (trabajo práctico/proyecto)
+
+📁 Miercoles_11_Feb/
+   - Sin PDFs (trabajo práctico/proyecto)
+
+📁 Jueves_12_Feb/
+   - Sin PDFs (trabajo práctico/proyecto)
+
+📁 Viernes_13_Feb/
+   - Sin PDFs (trabajo práctico/proyecto)
+
+============================================================
+
+💡 CÓMO USAR:
+1. Cada día, abre la carpeta correspondiente
+2. Lee el README.txt para ver qué PDFs estudiar
+3. Abre los PDFs directamente desde esa carpeta
+4. Guarda tus notas en ../Mis_Notas/
+5. Marca como completado en ../README.md

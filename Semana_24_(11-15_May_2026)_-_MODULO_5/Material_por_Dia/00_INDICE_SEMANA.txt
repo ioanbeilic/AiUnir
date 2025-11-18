@@ -1,0 +1,30 @@
+ÍNDICE DE MATERIAL - Semana_24_(11-15_May_2026)_-_MODULO_5
+============================================================
+
+📅 Material organizado por día:
+
+
+📁 Lunes_11_May/
+   - Seccion_01_pag_001-030.pdf
+
+📁 Martes_12_May/
+   - Seccion_01_pag_001-030.pdf
+
+📁 Miercoles_13_May/
+   - Seccion_02_pag_031-060.pdf
+
+📁 Jueves_14_May/
+   - Seccion_02_pag_031-060.pdf
+
+📁 Viernes_15_May/
+   - Seccion_01_pag_001-030.pdf
+   - Seccion_02_pag_031-060.pdf
+
+============================================================
+
+💡 CÓMO USAR:
+1. Cada día, abre la carpeta correspondiente
+2. Lee el README.txt para ver qué PDFs estudiar
+3. Abre los PDFs directamente desde esa carpeta
+4. Guarda tus notas en ../Mis_Notas/
+5. Marca como completado en ../README.md

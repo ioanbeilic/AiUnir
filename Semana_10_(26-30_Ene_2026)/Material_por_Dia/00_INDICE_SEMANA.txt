@@ -1,0 +1,29 @@
+ÍNDICE DE MATERIAL - Semana_10_(26-30_Ene_2026)
+============================================================
+
+📅 Material organizado por día:
+
+
+📁 Lunes_26_Ene/
+   - Sin PDFs (trabajo práctico/proyecto)
+
+📁 Martes_27_Ene/
+   - Sin PDFs (trabajo práctico/proyecto)
+
+📁 Miercoles_28_Ene/
+   - Sin PDFs (trabajo práctico/proyecto)
+
+📁 Jueves_29_Ene/
+   - Sin PDFs (trabajo práctico/proyecto)
+
+📁 Viernes_30_Ene/
+   - Sin PDFs (trabajo práctico/proyecto)
+
+============================================================
+
+💡 CÓMO USAR:
+1. Cada día, abre la carpeta correspondiente
+2. Lee el README.txt para ver qué PDFs estudiar
+3. Abre los PDFs directamente desde esa carpeta
+4. Guarda tus notas en ../Mis_Notas/
+5. Marca como completado en ../README.md

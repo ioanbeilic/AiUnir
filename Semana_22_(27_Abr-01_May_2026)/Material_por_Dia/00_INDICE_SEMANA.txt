@@ -1,0 +1,30 @@
+ÍNDICE DE MATERIAL - Semana_22_(27_Abr-01_May_2026)
+============================================================
+
+📅 Material organizado por día:
+
+
+📁 Lunes_27_Abr/
+   - Seccion_04_pag_091-120.pdf
+
+📁 Martes_28_Abr/
+   - Seccion_04_pag_091-120.pdf
+
+📁 Miercoles_29_Abr/
+   - Seccion_05_pag_121-150.pdf
+
+📁 Jueves_30_Abr/
+   - Seccion_05_pag_121-150.pdf
+
+📁 Viernes_1_May/
+   - Seccion_04_pag_091-120.pdf
+   - Seccion_05_pag_121-150.pdf
+
+============================================================
+
+💡 CÓMO USAR:
+1. Cada día, abre la carpeta correspondiente
+2. Lee el README.txt para ver qué PDFs estudiar
+3. Abre los PDFs directamente desde esa carpeta
+4. Guarda tus notas en ../Mis_Notas/
+5. Marca como completado en ../README.md

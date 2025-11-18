@@ -1,0 +1,30 @@
+ÍNDICE DE MATERIAL - Semana_23_(04-08_May_2026)
+============================================================
+
+📅 Material organizado por día:
+
+
+📁 Lunes_4_May/
+   - Seccion_06_pag_151-180.pdf
+
+📁 Martes_5_May/
+   - Seccion_06_pag_151-180.pdf
+
+📁 Miercoles_6_May/
+   - Seccion_07_pag_181-210.pdf
+
+📁 Jueves_7_May/
+   - Seccion_07_pag_181-210.pdf
+
+📁 Viernes_8_May/
+   - Seccion_06_pag_151-180.pdf
+   - Seccion_07_pag_181-210.pdf
+
+============================================================
+
+💡 CÓMO USAR:
+1. Cada día, abre la carpeta correspondiente
+2. Lee el README.txt para ver qué PDFs estudiar
+3. Abre los PDFs directamente desde esa carpeta
+4. Guarda tus notas en ../Mis_Notas/
+5. Marca como completado en ../README.md

@@ -1,0 +1,30 @@
+ÍNDICE DE MATERIAL - Semana_16_(09-13_Mar_2026)
+============================================================
+
+📅 Material organizado por día:
+
+
+📁 Lunes_9_Mar/
+   - Seccion_03_pag_061-090.pdf
+
+📁 Martes_10_Mar/
+   - Seccion_03_pag_061-090.pdf
+
+📁 Miercoles_11_Mar/
+   - Seccion_04_pag_091-120.pdf
+
+📁 Jueves_12_Mar/
+   - Seccion_04_pag_091-120.pdf
+
+📁 Viernes_13_Mar/
+   - Seccion_03_pag_061-090.pdf
+   - Seccion_04_pag_091-120.pdf
+
+============================================================
+
+💡 CÓMO USAR:
+1. Cada día, abre la carpeta correspondiente
+2. Lee el README.txt para ver qué PDFs estudiar
+3. Abre los PDFs directamente desde esa carpeta
+4. Guarda tus notas en ../Mis_Notas/
+5. Marca como completado en ../README.md

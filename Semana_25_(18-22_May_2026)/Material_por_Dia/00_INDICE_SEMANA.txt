@@ -1,0 +1,30 @@
+ÍNDICE DE MATERIAL - Semana_25_(18-22_May_2026)
+============================================================
+
+📅 Material organizado por día:
+
+
+📁 Lunes_18_May/
+   - Seccion_03_pag_061-090.pdf
+
+📁 Martes_19_May/
+   - Seccion_03_pag_061-090.pdf
+
+📁 Miercoles_20_May/
+   - Seccion_04_pag_091-120.pdf
+
+📁 Jueves_21_May/
+   - Seccion_04_pag_091-120.pdf
+
+📁 Viernes_22_May/
+   - Seccion_03_pag_061-090.pdf
+   - Seccion_04_pag_091-120.pdf
+
+============================================================
+
+💡 CÓMO USAR:
+1. Cada día, abre la carpeta correspondiente
+2. Lee el README.txt para ver qué PDFs estudiar
+3. Abre los PDFs directamente desde esa carpeta
+4. Guarda tus notas en ../Mis_Notas/
+5. Marca como completado en ../README.md

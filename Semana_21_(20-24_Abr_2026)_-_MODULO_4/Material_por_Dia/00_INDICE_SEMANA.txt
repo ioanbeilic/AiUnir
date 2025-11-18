@@ -1,0 +1,30 @@
+ÍNDICE DE MATERIAL - Semana_21_(20-24_Abr_2026)_-_MODULO_4
+============================================================
+
+📅 Material organizado por día:
+
+
+📁 Lunes_20_Abr/
+   - Seccion_01_pag_001-030.pdf
+
+📁 Martes_21_Abr/
+   - Seccion_01_pag_001-030.pdf
+   - Seccion_02_pag_031-060.pdf
+
+📁 Miercoles_22_Abr/
+   - Seccion_02_pag_031-060.pdf
+
+📁 Jueves_23_Abr/
+   - Seccion_03_pag_061-090.pdf
+
+📁 Viernes_24_Abr/
+   - Seccion_03_pag_061-090.pdf
+
+============================================================
+
+💡 CÓMO USAR:
+1. Cada día, abre la carpeta correspondiente
+2. Lee el README.txt para ver qué PDFs estudiar
+3. Abre los PDFs directamente desde esa carpeta
+4. Guarda tus notas en ../Mis_Notas/
+5. Marca como completado en ../README.md

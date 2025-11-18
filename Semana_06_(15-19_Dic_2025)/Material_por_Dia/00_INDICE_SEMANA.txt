@@ -1,0 +1,29 @@
+ÍNDICE DE MATERIAL - Semana_06_(15-19_Dic_2025)
+============================================================
+
+📅 Material organizado por día:
+
+
+📁 Lunes_15_Dic/
+   - Sin PDFs (trabajo práctico/proyecto)
+
+📁 Martes_16_Dic/
+   - Sin PDFs (trabajo práctico/proyecto)
+
+📁 Miercoles_17_Dic/
+   - Sin PDFs (trabajo práctico/proyecto)
+
+📁 Jueves_18_Dic/
+   - Sin PDFs (trabajo práctico/proyecto)
+
+📁 Viernes_19_Dic/
+   - Sin PDFs (trabajo práctico/proyecto)
+
+============================================================
+
+💡 CÓMO USAR:
+1. Cada día, abre la carpeta correspondiente
+2. Lee el README.txt para ver qué PDFs estudiar
+3. Abre los PDFs directamente desde esa carpeta
+4. Guarda tus notas en ../Mis_Notas/
+5. Marca como completado en ../README.md

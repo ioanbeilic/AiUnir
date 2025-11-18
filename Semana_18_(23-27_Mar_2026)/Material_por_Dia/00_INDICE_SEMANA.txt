@@ -1,0 +1,30 @@
+ÍNDICE DE MATERIAL - Semana_18_(23-27_Mar_2026)
+============================================================
+
+📅 Material organizado por día:
+
+
+📁 Lunes_23_Mar/
+   - Seccion_07_pag_181-210.pdf
+
+📁 Martes_24_Mar/
+   - Seccion_07_pag_181-210.pdf
+
+📁 Miercoles_25_Mar/
+   - Seccion_08_pag_211-240.pdf
+
+📁 Jueves_26_Mar/
+   - Seccion_08_pag_211-240.pdf
+
+📁 Viernes_27_Mar/
+   - Seccion_07_pag_181-210.pdf
+   - Seccion_08_pag_211-240.pdf
+
+============================================================
+
+💡 CÓMO USAR:
+1. Cada día, abre la carpeta correspondiente
+2. Lee el README.txt para ver qué PDFs estudiar
+3. Abre los PDFs directamente desde esa carpeta
+4. Guarda tus notas en ../Mis_Notas/
+5. Marca como completado en ../README.md
