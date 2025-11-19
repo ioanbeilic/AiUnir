@@ -9,7 +9,7 @@
 - **Módulo**: 1.
 - **Contenido**: Temas 1-2: Fundamentos y resolución de problemas
 - **Entregas**: Preparar Actividad 1 (entrega 1 dic)
-- 📂 [Ver carpeta](./Semana_02_(18-22_Nov_2025)_-_ACTUAL/)
+- 📂 [Ver carpeta](./Semana_02_(17-21_Nov_2025)_-_MODULO_1/)
 
 ## 2. Semana_03_(24-28_Nov_2025)
 - **Módulo**: 1.
